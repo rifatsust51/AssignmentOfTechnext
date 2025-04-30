@@ -34,8 +34,9 @@ The ERD represents the relationships between the following entities:
 - **Tasks**: Tracks tasks under specific projects.
 
 
-![image](https://github.com/user-attachments/assets/239b7762-3435-41e7-8cdf-5ee49b276ecd)
 
+
+![deepseek_mermaid_20250430_a0838d](https://github.com/user-attachments/assets/f50a2483-adec-44e0-b956-41e8370810f6)
 
 
 ## Summary of Approach and Decisions
